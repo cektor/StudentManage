@@ -13,4 +13,4 @@ Now import the database of the SQL file
 Open source code files and check database name is proper or not.
 Now open the admin panel and log in with provided credentials.
 
-![Demo](comingsoon-screen.png) 
+![Demo](dashPanel.png)  ![Demo](login_page.png) 
